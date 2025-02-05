@@ -34,8 +34,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
 
 Clone the repository:
 ```sh
-git clone https://github.com/your-username/retail-customer-segmentation.git
-cd retail-customer-segmentation
+git clone https://github.com/your-username/retail-customer-segmentation-with-clustering.git
+cd retail-customer-segmentation-with-clustering
 ```
 
 ## 📜 Usage Guide
@@ -56,10 +56,10 @@ Then open and execute `customer_segmentation.ipynb`.
 
 ## 📊 Sample Visualizations
 ### **Cluster Distribution**
-![Cluster Plot](cluster_plot.png)
+![Cluster Plot](cluster.png)
 
 ### **Boxplot of Customer Segments**
-![Boxplot](boxplot.png)
+![Boxplot](Boxplot.png)
 
 ## 🤖 Future Enhancements
 - Implement **predictive modeling** for customer purchase behavior.
@@ -74,6 +74,6 @@ Feel free to fork this repository, submit issues, or open pull requests to impro
 
 ---
 **Author:** Your Name  
-📧 Contact: your.email@example.com  
-🔗 GitHub: [Your GitHub Profile](https://github.com/your-username)
+📧 Contact: arkistar4uu@gmail.com  
+🔗 GitHub: https://github.com/arkistar4uu
 
