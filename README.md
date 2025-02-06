@@ -73,7 +73,7 @@ This project is licensed under the MIT License.
 Feel free to fork this repository, submit issues, or open pull requests to improve this project!
 
 ---
-**Author:** Your Name  
+**Author:** Ark Ikhu 
 📧 Contact: arkistar4uu@gmail.com  
 🔗 GitHub: https://github.com/arkistar4uu
 
